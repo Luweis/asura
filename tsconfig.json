@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "sourceMap": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": true,
+    "strictNullChecks": false,
+    "noFallthroughCasesInSwitch": true,
+    "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

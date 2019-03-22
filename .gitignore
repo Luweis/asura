@@ -1,0 +1,7 @@
+/node_modules
+.idea
+yarn.*
+package-lock.json
+/libs/logging/node_modules
+ .DS_Store
+/.vscode
